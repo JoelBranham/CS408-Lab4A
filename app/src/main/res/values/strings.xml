@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab4A</string>
+    <string name="action_settings">Settings</string>
+    <string name="masterCalculator">Master Calculator</string>
+    <string name="tip_calculator">Tip Calculator</string>
+    <string name="miles_kilometers_converter">Miles/Kilometers Converter</string>
+    <string name="fahrenheit_celsius_converter">Fahrenheit/Celsius Converter</string>
+    <string name="total_bill">Total Bill</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <string name="number_of_people">Number of People</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_per_person">Tip Per Person</string>
+</resources>
