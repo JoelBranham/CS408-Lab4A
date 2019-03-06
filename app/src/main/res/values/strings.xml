@@ -9,5 +9,7 @@
     <string name="tip_percentage">Tip Percentage</string>
     <string name="number_of_people">Number of People</string>
     <string name="calculate">Calculate</string>
-    <string name="tip_per_person">Tip Per Person</string>
+    <string name="total_per_person">Total Per Person</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="miles">Miles</string>
 </resources>
