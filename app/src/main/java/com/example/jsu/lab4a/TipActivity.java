@@ -35,7 +35,7 @@ public class TipActivity extends AppCompatActivity {
             double totalPerPerson = (totalBill + totalBill * tipPercentage / 100.0) / numberPeople;
 
             TextView resultTextView = findViewById(R.id.calculatedResultTextView);
-            resultTextView.setText(NumberFormat.getCurrencyInstance().format(Math.round(totalPerPerson * 100.00) / 100.00));
+            resultTextView.setText(NumberFormat.getCurrencyInstance().format(Math.round(totalPerPerson * 100) / 100.00));
         }
     }
 }
