@@ -12,4 +12,6 @@
     <string name="total_per_person">Total Per Person</string>
     <string name="kilometers">Kilometers</string>
     <string name="miles">Miles</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
 </resources>
